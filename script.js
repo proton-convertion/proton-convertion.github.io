@@ -242,6 +242,7 @@ document.querySelectorAll('.randombtn')[2].onclick = function() {
     'lektorium.tv',
     'letidor.ru',
     'lib.ru',
+	'linkgroup.ru',
     'litres.ru',
     'livejournal.com',
     'livelib.ru',
