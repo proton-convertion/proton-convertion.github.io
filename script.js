@@ -207,6 +207,7 @@ document.querySelectorAll('.randombtn')[2].onclick = function() {
     'mariinsky.ru',
     'matchtv.ru',
     'med-otzyv.ru',
+    'medelement.com',
     'medi.ru',
     'mediametrics.ru',
     'medicalinsider.ru',
