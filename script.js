@@ -193,6 +193,7 @@ document.querySelectorAll('.randombtn')[2].onclick = function() {
     'kreml.ru',
     'kuban24.tv',
     'lektorium.tv',
+    'lentainform.com',
     'letidor.ru',
     'lib.ru',
     'linkgroup.ru',
